@@ -1,6 +1,6 @@
 # Welcome to MONAI :wave:
 
-![project monai](https://github.com/Project-MONAI/.github/blob/main/images/logo-banner.png)
+![project monai](https://github.com/zephyrie/org-readme/blob/main/MONAI%20Banner%20-%20Dots%20and%20Lines%20_2.png)
 
 <div align="center">
 <a href="http://monai.io">Website</a> | <a href="https://monai.medium.com/">Blog</a> | <a href="https://www.youtube.com/c/Project-MONAI">YouTube</a> | <a href="https://twitter.com/ProjectMONAI">Twitter</a>
